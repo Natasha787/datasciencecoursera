@@ -1,8 +1,7 @@
 datasciencecoursera
 ======================
 
-datasciencecoursera
-<<<<<<< HEAD
+
 Data Science Toolbox Coursera github repo
 =======
 Install R 
